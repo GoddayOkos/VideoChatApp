@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "815000632659",
+    "project_id": "video-chat-app-9e41f",
+    "storage_bucket": "video-chat-app-9e41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815000632659:android:6476c8092447c84bb275a6",
+        "android_client_info": {
+          "package_name": "dev.decagon.godday.videochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815000632659-tt0fmuna9eik1ujd9v97jlsau78nnorq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.decagon.godday.videochat",
+            "certificate_hash": "481ec0829bed8ad96c70f0389959fe97a59931bb"
+          }
+        },
+        {
+          "client_id": "815000632659-bkp0ja89vofh9q2lpr26ja530pi16ih3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXfqzSGh5Qq3HbCqFMcNPDxrTML7vce8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815000632659-bkp0ja89vofh9q2lpr26ja530pi16ih3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

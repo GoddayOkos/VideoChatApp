@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Video Chat</string>
+    <string name="agora_app_id">3334926ce11a4156a6edd814d7da56c5</string>
+    <string name="welcome_title">Welcome to Video Chat</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
